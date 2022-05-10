@@ -7,12 +7,15 @@ A retirement calculator that calculates how much money you should have by the ag
 ## How to Install and Run the Project
 
 1. Clone the repository.
+	
 	`git clone git@github.com:keremidarski/retirement_calculator.git`
 
 2. Install the dependencies.
+	
 	`pip3 install -r requirements.txt`
 
 3. Run the app.
+	
 	`python3 main.py`
 
 ## How to Use the Project
