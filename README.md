@@ -2,6 +2,8 @@
 
 # Retirement Calculator
 
+WORK IN PROGRESS!
+
 A retirement calculator that calculates how much money you should have by the age you plan to retire based on the money you invest each month and the planned yearly return rate.
 
 ## How to Install and Run the Project
